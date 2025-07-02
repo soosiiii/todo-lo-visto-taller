@@ -1,0 +1,89 @@
+* {
+    border-radius: 5px;
+}
+header {
+    background-color: brown;
+    height: 80px;
+    width: 595px; 
+    margin: 12px;
+    justify-content: end;
+    align-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    
+    
+}
+
+nav {
+    width: 150px;
+    height: 20px;
+    background-color: yellow;
+    margin: 7px;
+}
+main {
+    background-color: rgb(85, 123, 250);
+    height: 400px;
+    width: 380px;
+    margin: 5px;
+    justify-content: space-around;
+    align-content: center;
+    justify-content: center;
+}
+
+article {
+    background-color: rgb(132, 218, 4);
+    height: 290px;
+    width: 355px;
+    margin: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+#s3 {
+    width: 315px;
+    height: 65px;
+    background-color: rgb(211, 255, 144);
+    margin: 20px;
+}
+#main {
+    background-color: rgb(224, 158, 169);
+    height: 25px;
+    width: 370px;
+    margin: 5px;
+}
+#div1 {
+    
+    width: 620px; 
+    margin: 9px;
+    height: 410px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+aside {
+    background-color: rgb(12, 255, 255);
+    width: 200px;
+    height: 400px;
+    flex-wrap: wrap;
+    margin: 5px;
+    
+}
+#s1 {
+    background-color: rgb(211, 255, 144);
+    height: 65px;
+    width: 185px;
+    margin: 7px;
+}
+#s2 {
+    background-color: rgb(211, 255, 144);
+    height: 210px;
+    width: 185px;
+    margin: 7px;
+}
+ footer {
+    background-color: rgb(224, 158, 169);
+    height: 55px;
+    width: 595px;
+    margin: 12px;
+ }

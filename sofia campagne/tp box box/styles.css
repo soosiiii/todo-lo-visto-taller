@@ -1,0 +1,52 @@
+#parrafo1 {
+    background-color: rgb(150, 228, 163);
+    border: solid 1px black;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 50px;
+    margin: auto;
+}
+
+#parrafo2 {
+    background-color: palegoldenrod;
+    border: solid 1px black;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 50px;
+    margin: auto;
+}
+
+#parrafo3 {
+    background-color: rgb(236, 93, 93);
+    border: solid 1px black;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 50px;
+    margin: auto;
+}
+
+ .papa {
+      background-color: lightblue;
+      border: 3px solid blue;
+      padding: 30px;
+    }
+
+       .hijo {
+      background-color: lightcoral;
+      border: 2px dashed red;
+      margin: 20px;
+    }
+  
+
+    div{
+     width: 200px;
+    height: 200px;
+    background-color: peru;  
+    }
+
+    div:hover{
+      border: 3px solid rgb(184, 236, 39);
+      padding: 30px;
+      margin: 20px;
+      box-shadow: inset;
+    }

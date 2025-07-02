@@ -1,0 +1,57 @@
+header {
+    width: 500px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+nav {
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+section {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+article {
+    width: 300px;
+    height: 180px;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+aside {
+    width: 190px;
+    height: 420px;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+#divpadre {
+    display: flex;
+    width: 500px;
+}
+
+#div2 {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+#div1 {
+    width: 190px;
+    margin-left: 10px;
+}
+
+footer {
+    width: 500px;
+    height: 60px;
+    border-radius: 5px;
+    margin: 9px;
+}

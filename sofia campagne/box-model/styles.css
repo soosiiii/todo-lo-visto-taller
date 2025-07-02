@@ -1,0 +1,25 @@
+#parrafo1 {
+    background-color: palegoldenrod;
+    border: solid 1px black;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 50px;
+    margin: auto;
+}
+
+#parrafo2 {
+   background-color: rgb(179, 213, 243);
+}
+
+
+
+
+
+
+
+
+
+
+
+/*con el * se selecciona todo*/
+/* display: inline; sirve para hacerlo mas cuadrado cerca del texto*/

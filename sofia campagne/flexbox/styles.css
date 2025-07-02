@@ -1,0 +1,64 @@
+#divpadre {
+    height: 110px;
+    width: 110px;
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+}
+
+#div1 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(255, 0, 0);
+}
+
+#div2 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(30, 255, 0);
+}
+
+#div3 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(0, 255, 255);
+}
+
+#div4 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(200, 255, 0);
+}
+
+#div5 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 0, 200);
+}
+
+#div6 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(0, 26, 255);
+}
+
+#div7 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(0, 140, 255);
+}
+
+#div8 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 166, 0);
+}
+
+#div9 {
+    height: 20px;
+    width: 30px;
+    background-color: rgb(238, 255, 0);
+}
